@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Flutter / Dart application**
+ 🔭 I’m currently working on **Event picture application**
  
- 🌱 I’m currently learning **Dart, Flutter, React**
+ 🌱 I’m currently learning **React, Firebase**
 
 ⚡ Fun fact **The first computer bug was literally a bug.**
 
