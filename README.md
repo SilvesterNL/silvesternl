@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Event picture application**
+ 🔭 I’m currently working on **LowBilling ( A buisness automation platform )**
  
- 🌱 I’m currently learning **React, Firebase**
+ 🌱 I’m currently learning **NVIDIA CuOpt**
 
 ⚡ Fun fact **The first computer bug was literally a bug.**
 
