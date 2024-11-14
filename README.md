@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **LowBilling ( A buisness automation platform )**
+ 🔭 I’m currently working on **LowNode ( A hosting service )**
  
  🌱 I’m currently learning **NVIDIA CuOpt**
 
